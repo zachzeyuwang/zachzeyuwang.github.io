@@ -1,2 +1,4 @@
-
-myblog/_posts/.DS_Store
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
