@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to Zach Zeyu Wang's Personal Website!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Yale Graphics Group](http://graphics.cs.yale.edu/site/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Google Scholar](https://scholar.google.com/citations?user=q7NLPG0AAAAJ)
 
+[ResearchGate](https://www.researchgate.net/profile/Zeyu_Wang4)
 
-[jekyll-organization]: https://github.com/jekyll
+[LinkedIn](https://www.linkedin.com/in/zachzeyuwang)
