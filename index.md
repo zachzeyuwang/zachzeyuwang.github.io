@@ -25,6 +25,19 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/anicode.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
+		AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations<br>
+		<i>arXiv:1807.11627 [cs.GR]</i>, 2018<br>
+		<a href="https://arxiv.org/abs/1807.11627">[pdf]</a>
+		<a onclick="copyBibTeX(8)">[bibtex]</a>
+		<a>[video and code to come]</a>
+	</td>
+</tr>
+<tr style="border:0px">
+	<td style="border:0px">
 		<img src="assets/images/cherob.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
@@ -123,6 +136,9 @@ function copyBibTeX(id) {
   var tempInput = document.createElement("textarea");
   tempInput.style = "position: absolute; left: -1000px; top: -1000px";
   switch (id) {
+  	case 8:
+  		tempInput.value = "@misc{1807.11627,\nauthor = {Zeyu Wang and Shiyu Qiu and Qingyang Chen and Alexander Ringlein and Julie Dorsey and Holly Rushmeier},\ntitle = {AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations},\nyear = {2018},\neprint = {arXiv:1807.11627}\n}";
+  		break;
     case 7:
         tempInput.value = "@article {Wang:2018:CHER-Ob,\nauthor = {Wang, Zeyu and Shi, Weiqi and Akoglu, Kiraz and Kotoula, Eleni and Yang, Ying and Rushmeier, Holly},\ntitle = {{CHER-Ob: A Tool for Shared Analysis and Video Dissemination}},\njournal = {Journal on Computing and Cultural Heritage},\nyear = {2018},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {cultural heritage, video generator}\n}";
         break;
