@@ -30,8 +30,8 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
 		AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations<br>
-		<i>arXiv:1807.11627 [cs.GR]</i>, 2018<br>
-		<a href="https://arxiv.org/abs/1807.11627">[pdf]</a>
+		To appear in <i>the Visual Computer</i>, 2019<br>
+		<a href="https://arxiv.org/abs/1807.11627">[arxiv]</a>
 		<a onclick="copyBibTeX(8)">[bibtex]</a>
 		<a>[video and code to come]</a>
 	</td>
