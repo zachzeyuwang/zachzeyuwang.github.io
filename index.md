@@ -33,7 +33,7 @@ layout: page_no_title
 		To appear in <i>the Visual Computer</i>, 2019<br>
 		<a href="https://arxiv.org/abs/1807.11627">[arxiv]</a>
 		<a onclick="copyBibTeX(8)">[bibtex]</a>
-		<a>[video and code to come]</a>
+		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
 	</td>
 </tr>
 <tr style="border:0px">
