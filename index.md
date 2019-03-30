@@ -125,6 +125,7 @@ layout: page_no_title
 		<i>ACM SIGGRAPH Asia Technical Briefs</i>, 2015<br>
 		<a href="https://www.researchgate.net/publication/281589647_Panorama_to_Cube_A_Content-Aware_Representation_Method">[pdf]</a>
 		<a href="https://youtu.be/wJy2ZAhunP0">[video]</a>
+		<a href="https://github.com/zachzeyuwang/Panorama-to-Cube">[code]</a>
 		<a onclick="copyBibTeX(1)">[bibtex]</a>
 	</td>
 </tr>
