@@ -10,8 +10,8 @@ layout: page_no_title
 		<img src="assets/images/zach.jpg" width="600px"/>
 	</td>
 	<td style="border:0px">
-		I am a PhD student in Computer Science at Yale University. My research interests include digital heritage, VR/AR, 3D graphics, visual perception, and artificial intelligence.<br><br>
-		Before coming to Yale, I received B.S. (Summa Cum Laude) from Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University in 2016.<br><br>
+		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
+		Before coming to Yale, I received the B.S. degree (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="http://graphics.cs.yale.edu/site/">[Yale Graphics Group]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a>
@@ -28,12 +28,14 @@ layout: page_no_title
 		<img src="assets/images/anicode.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
+		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Natallia Trayan, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
 		AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations<br>
-		To appear in <i>the Visual Computer</i>, 2019<br>
-		<a href="https://arxiv.org/abs/1807.11627">[arxiv]</a>
-		<a onclick="copyBibTeX(8)">[bibtex]</a>
+		<i>The Visual Computer</i>, 2019<br>
+		<a href="https://www.researchgate.net/publication/332972892_AniCode_Authoring_Coded_Artifacts_for_Network-Free_Personalized_Animations">[pdf]</a>
+		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
+		<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
 		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
+		<a onclick="copyBibTeX(8)">[bibtex]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -44,7 +46,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Weiqi Shi, Kiraz Akoglu, Eleni Kotoula, Ying Yang, Holly Rushmeier<br>
 		CHER-Ob: A Tool for Shared Analysis and Video Dissemination<br>
 		<i>ACM Journal on Computing and Cultural Heritage (JOCCH)</i>, 2018<br>
-		<a href="http://graphics.cs.yale.edu/site/publications/cher-ob-tool-shared-analysis-and-video-dissemination">[pdf]</a>
+		<a href="https://www.researchgate.net/publication/325253431_CHER-Ob_A_Tool_for_Shared_Analysis_and_Video_Dissemination">[pdf]</a>
 		<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
 		<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
 		<a onclick="copyBibTeX(7)">[bibtex]</a>
@@ -58,7 +60,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Kiraz Akoglu, Holly Rushmeier<br>
 		An Introductory Video Generator for Disseminating Cultural Heritage Projects<br>
 		<i>Eurographics Workshop on Graphics and Cultural Heritage (EG GCH)</i>, 2017<br>
-		<a href="http://graphics.cs.yale.edu/site/publications/introductory-video-generator-disseminating-cultural-heritage-projects">[pdf]</a>
+		<a href="https://www.researchgate.net/publication/318888522_An_Introductory_Video_Generator_for_Disseminating_Cultural_Heritage_Projects">[pdf]</a>
 		<a onclick="copyBibTeX(6)">[bibtex]</a>
 		<span style="color:red">Best Paper Award</span>
 	</td>
@@ -71,7 +73,7 @@ layout: page_no_title
 		Weiqi Shi, <b>Zeyu Wang</b>, Metin Sezgin, Julie Dorsey, Holly Rushmeier<br>
 		Material Design in Augmented Reality with In-Situ Visual Feedback<br>
 		<i>Eurographics Symposium on Rendering (EGSR)</i>, 2017<br>
-		<a href="http://graphics.cs.yale.edu/site/publications/material-design-augmented-reality-situ-visual-feedback">[pdf]</a>
+		<a href="https://www.researchgate.net/publication/316974634_Material_Design_in_Augmented_Reality_with_In-Situ_Visual_Feedback">[pdf]</a>
 		<a onclick="copyBibTeX(5)">[bibtex]</a>
 	</td>
 </tr>
@@ -138,28 +140,28 @@ function copyBibTeX(id) {
 	tempInput.style = "position: absolute; left: -1000px; top: -1000px";
 	switch (id) {
 		case 8:
-		tempInput.value = "@misc{1807.11627,\nauthor = {Zeyu Wang and Shiyu Qiu and Qingyang Chen and Alexander Ringlein and Julie Dorsey and Holly Rushmeier},\ntitle = {AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations},\nyear = {2018},\neprint = {arXiv:1807.11627}\n}";
+		tempInput.value = "@article{Wang:2019:AniCode,\nauthor = {Wang, Zeyu and Qiu, Shiyu and Chen, Qingyang and Trayan, Natallia and Ringlein, Alexander and Dorsey, Julie and Rushmeier, Holly},\ntitle = {{AniCode}: Authoring Coded Artifacts for Network-Free Personalized Animations},\njournal = {The Visual Computer},\nyear = {2019},\nmonth = {May},\nday = {09},\nissn = {1432-2315},\ndoi = {10.1007/s00371-019-01681-y},\nurl = {https://doi.org/10.1007/s00371-019-01681-y}\n}";
 		break;
 		case 7:
-		tempInput.value = "@article{Wang:2018:CHER-Ob,\nauthor = {Wang, Zeyu and Shi, Weiqi and Akoglu, Kiraz and Kotoula, Eleni and Yang, Ying and Rushmeier, Holly},\ntitle = {CHER-Ob: A Tool for Shared Analysis and Video Dissemination},\njournal = {J. Comput. Cult. Herit.},\nissue_date = {November 2018},\nvolume = {11},\nnumber = {4},\nmonth = nov,\nyear = {2018},\nissn = {1556-4673},\npages = {18:1--18:22},\narticleno = {18},\nnumpages = {22},\nurl = {http://doi.acm.org/10.1145/3230673},\ndoi = {10.1145/3230673},\nacmid = {3230673},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {Cultural heritage, video generator}\n}";
+		tempInput.value = "@article{Wang:2018:CHER-Ob,\nauthor = {Wang, Zeyu and Shi, Weiqi and Akoglu, Kiraz and Kotoula, Eleni and Yang, Ying and Rushmeier, Holly},\ntitle = {{CHER-Ob}: A Tool for Shared Analysis and Video Dissemination},\njournal = {J. Comput. Cult. Herit.},\nissue_date = {November 2018},\nvolume = {11},\nnumber = {4},\nmonth = nov,\nyear = {2018},\nissn = {1556-4673},\npages = {18:1--18:22},\narticleno = {18},\nnumpages = {22},\nurl = {http://doi.acm.org/10.1145/3230673},\ndoi = {10.1145/3230673},\nacmid = {3230673},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {Cultural heritage, video generator}\n}";
 		break;
 		case 6:
-		tempInput.value = "@inproceedings {gch.20171296,\nbooktitle = {Eurographics Workshop on Graphics and Cultural Heritage},\neditor = {Tobias Schreck and Tim Weyrich and Robert Sablatnig and Benjamin Stular},\ntitle = {An Introductory Video Generator for Disseminating Cultural Heritage Projects},\nauthor = {Wang, Zeyu and Akoglu, Kiraz and Rushmeier, Holly},\nyear = {2017},\npublisher = {The Eurographics Association},\nissn = {2312-6124},\nisbn = {978-3-03868-037-6},\ndoi = {10.2312/gch.20171296}\n}";
+		tempInput.value = "@inproceedings{Wang:2017:Video,\nbooktitle = {Eurographics Workshop on Graphics and Cultural Heritage},\neditor = {Tobias Schreck and Tim Weyrich and Robert Sablatnig and Benjamin Stular},\ntitle = {An Introductory Video Generator for Disseminating Cultural Heritage Projects},\nauthor = {Wang, Zeyu and Akoglu, Kiraz and Rushmeier, Holly},\nyear = {2017},\npublisher = {The Eurographics Association},\nissn = {2312-6124},\nisbn = {978-3-03868-037-6},\ndoi = {10.2312/gch.20171296}\n}";
 		break;
 		case 5:
-		tempInput.value = "@inproceedings {sre.20171198,\nbooktitle = {Eurographics Symposium on Rendering - Experimental Ideas & Implementations},\neditor = {Matthias Zwicker and Pedro Sander},\ntitle = {{Material Design in Augmented Reality with In-Situ Visual Feedback}},\nauthor = {Shi, Weiqi and Wang, Zeyu and Sezgin, Metin and Dorsey, Julie and Rushmeier, Holly},\nyear = {2017},\npublisher = {The Eurographics Association},\nissn = {1727-3463},\nisbn = {978-3-03868-045-1},\ndoi = {10.2312/sre.20171198}\n}";
+		tempInput.value = "@inproceedings{Shi:2017:Material,\nbooktitle = {Eurographics Symposium on Rendering - Experimental Ideas & Implementations},\neditor = {Matthias Zwicker and Pedro Sander},\ntitle = {{Material Design in Augmented Reality with In-Situ Visual Feedback}},\nauthor = {Shi, Weiqi and Wang, Zeyu and Sezgin, Metin and Dorsey, Julie and Rushmeier, Holly},\nyear = {2017},\npublisher = {The Eurographics Association},\nissn = {1727-3463},\nisbn = {978-3-03868-045-1},\ndoi = {10.2312/sre.20171198}\n}";
 		break;
 		case 4:
-		tempInput.value = "@inproceedings {Wang:2016:Longmen,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Shao, Dian and Li, Renju and Zha, Hongbin and Ikeuchi, Katsushi},\neditor = {Chen, Chu-Song and Lu, Jiwen and Ma, Kai-Kuang},\ntitle = {{Digital Longmen Project: A Free Walking VR System with Image-Based Restoration}},\nbooktitle = {Computer Vision -- ACCV 2016 Workshops},\nyear = {2017},\npublisher = {Springer International Publishing},\naddress = {Cham},\npages = {191--206},\nisbn = {978-3-319-54427-4}\n}";
+		tempInput.value = "@inproceedings{Wang:2016:Longmen,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Shao, Dian and Li, Renju and Zha, Hongbin and Ikeuchi, Katsushi},\neditor = {Chen, Chu-Song and Lu, Jiwen and Ma, Kai-Kuang},\ntitle = {{Digital Longmen Project: A Free Walking VR System with Image-Based Restoration}},\nbooktitle = {Computer Vision -- ACCV 2016 Workshops},\nyear = {2017},\npublisher = {Springer International Publishing},\naddress = {Cham},\npages = {191--206},\nisbn = {978-3-319-54427-4}\n}";
 		break;
 		case 3:
-		tempInput.value = "@inproceedings {Wang:2016:Horopter,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Xue, Fei and Li, Renju and Zha, Hongbin and Ikeuchi, Katsushi},\ntitle = {{Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency}},\nbooktitle = {Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology},\nseries = {VRST '16},\nyear = {2016},\nisbn = {978-1-4503-4491-3},\nlocation = {Munich, Germany},\npages = {15--18},\nnumpages = {4},\nurl = {http://doi.acm.org/10.1145/2993369.2993393},\ndoi = {10.1145/2993369.2993393},\nacmid = {2993393},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {horopter consistency, image warping, perceptual enhancement, stereoscopic videos, virtual rig modification}\n}";
+		tempInput.value = "@inproceedings{Wang:2016:Horopter,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Xue, Fei and Li, Renju and Zha, Hongbin and Ikeuchi, Katsushi},\ntitle = {{Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency}},\nbooktitle = {Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology},\nseries = {VRST '16},\nyear = {2016},\nisbn = {978-1-4503-4491-3},\nlocation = {Munich, Germany},\npages = {15--18},\nnumpages = {4},\nurl = {http://doi.acm.org/10.1145/2993369.2993393},\ndoi = {10.1145/2993369.2993393},\nacmid = {2993393},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {horopter consistency, image warping, perceptual enhancement, stereoscopic videos, virtual rig modification}\n}";
 		break;
 		case 2:
-		tempInput.value = "@inproceedings {Wang:2015:Robotics,\nauthor = {Wang, Zeyu and Min, James K. and Xiong, Guanglei},\nbooktitle = {2015 IEEE International Conference on Robotics and Biomimetics (ROBIO)},\ntitle = {{Robotics-Driven Printing of Curved 3D Structures for Manufacturing Cardiac Therapeutic Devices}},\nyear = {2015},\npages = {2318-2323},\ndoi = {10.1109/ROBIO.2015.7419120},\nmonth = {Dec}\n}";
+		tempInput.value = "@inproceedings{Wang:2015:Robotics,\nauthor = {Wang, Zeyu and Min, James K. and Xiong, Guanglei},\nbooktitle = {2015 IEEE International Conference on Robotics and Biomimetics (ROBIO)},\ntitle = {{Robotics-Driven Printing of Curved 3D Structures for Manufacturing Cardiac Therapeutic Devices}},\nyear = {2015},\npages = {2318-2323},\ndoi = {10.1109/ROBIO.2015.7419120},\nmonth = {Dec}\n}";
 		break;
 		case 1:
-		tempInput.value = "@inproceedings {Wang:2015:Panorama,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Xue, Fei and He, Xin and Li, Renju and Zha, Hongbin},\ntitle = {{Panorama to Cube: A Content-Aware Representation Method}},\nbooktitle = {SIGGRAPH Asia 2015 Technical Briefs},\nseries = {SA '15},\nyear = {2015},\nisbn = {978-1-4503-3930-8},\nlocation = {Kobe, Japan},\npages = {6:1--6:4},\narticleno = {6},\nnumpages = {4},\nurl = {http://doi.acm.org/10.1145/2820903.2820911},\ndoi = {10.1145/2820903.2820911},\nacmid = {2820911},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {energy estimation, image unwrapping, panorama, seam carving, vanishing point}\n}";
+		tempInput.value = "@inproceedings{Wang:2015:Panorama,\nauthor = {Wang, Zeyu and Jin, Xiaohan and Xue, Fei and He, Xin and Li, Renju and Zha, Hongbin},\ntitle = {{Panorama to Cube: A Content-Aware Representation Method}},\nbooktitle = {SIGGRAPH Asia 2015 Technical Briefs},\nseries = {SA '15},\nyear = {2015},\nisbn = {978-1-4503-3930-8},\nlocation = {Kobe, Japan},\npages = {6:1--6:4},\narticleno = {6},\nnumpages = {4},\nurl = {http://doi.acm.org/10.1145/2820903.2820911},\ndoi = {10.1145/2820903.2820911},\nacmid = {2820911},\npublisher = {ACM},\naddress = {New York, NY, USA},\nkeywords = {energy estimation, image unwrapping, panorama, seam carving, vanishing point}\n}";
 		break;
 		default:
 		tempInput.value = "";
