@@ -11,7 +11,7 @@ layout: page_no_title
 	</td>
 	<td style="border:0px">
 		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
-		Before coming to Yale, I received the B.S. degree (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
+		Before coming to Yale, I received B.S. (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="http://graphics.cs.yale.edu/site/">[Yale Graphics Group]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a>
@@ -28,12 +28,12 @@ layout: page_no_title
 		<img src="assets/images/anicode.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Shiyu Qiu, Qingyang Chen, Natallia Trayan, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
+		<b>Zeyu Wang</b>*, Shiyu Qiu*, Qingyang Chen, Natallia Trayan, Alexander Ringlein, Julie Dorsey, Holly Rushmeier<br>
 		AniCode: Authoring Coded Artifacts for Network-Free Personalized Animations<br>
 		<i>The Visual Computer</i>, 2019<br>
 		<a href="https://www.researchgate.net/publication/332972892_AniCode_Authoring_Coded_Artifacts_for_Network-Free_Personalized_Animations">[pdf]</a>
 		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
-		<a href="http://tracer.cs.yale.edu/anicode">[demo]</a>
+		<a href="http://tracer.cs.yale.edu/AniCode">[demo]</a>
 		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
 		<a onclick="copyBibTeX(8)">[bibtex]</a>
 	</td>
