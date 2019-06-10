@@ -12,7 +12,7 @@ layout: page_no_title
 	<td style="border:0px">
 		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
 		Before coming to Yale, I received B.S. (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
-		<a href="http://graphics.cs.yale.edu/site/">[Yale Graphics Group]</a><br>
+		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a>
