@@ -47,7 +47,7 @@ layout: page_no_title
 		CHER-Ob: A Tool for Shared Analysis and Video Dissemination<br>
 		<i>ACM Journal on Computing and Cultural Heritage (JOCCH)</i>, 2018<br>
 		<a href="https://www.researchgate.net/publication/325253431_CHER-Ob_A_Tool_for_Shared_Analysis_and_Video_Dissemination">[pdf]</a>
-		<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research">[project]</a>
+		<a href="https://graphics.cs.yale.edu/software-packages/cher-ob-open-source-platform-shared-analysis-and-video-dissemination-cultural">[project]</a>
 		<a href="https://github.com/WeiqiJust/CHER-Ob">[code]</a>
 		<a onclick="copyBibTeX(7)">[bibtex]</a>
 	</td>
