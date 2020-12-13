@@ -10,7 +10,7 @@ layout: page_no_title
 		<img src="assets/images/zach.jpg" width="600px"/>
 	</td>
 	<td style="border:0px">
-		I am a Ph.D. candidate in computer graphics at Yale University. My research interests include sketching, cultural heritage, VR/AR, visual perception, and intelligent interfaces for creative applications.<br><br>
+		I am a Ph.D. candidate in computer graphics at Yale University. My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.<br><br>
 		Before coming to Yale, I received B.S. (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
@@ -23,6 +23,17 @@ layout: page_no_title
 
 ## Publications
 <table style="border:0px">
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/distanciar.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Zeyu Wang</b>, Cuong Nguyen, Paul Asente, Julie Dorsey<br>
+		DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments<br>
+		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2021<br>
+		[to appear]
+	</td>
+</tr>
 <tr style="border:0px">
 	<td style="border:0px">
 		<img src="assets/images/anicode.jpg" width="200px"/>

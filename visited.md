@@ -2,7 +2,7 @@
 title: Visited Places
 layout: page
 ---
-I will develop an interactive interface using some visualization tools that can link time, locations, pictures, and other data to replace these static images.
+I am envisioning an interactive visualization that can link time, location, photos, and other heterogeneous data in lieu of these static images.
 
 ## World
 ![World]({{ "/assets/images/misc/world.png" | absolute_url }})
@@ -53,6 +53,7 @@ I will develop an interactive interface using some visualization tools that can 
 	Washington, DC
 	Florida
 	Georgia
+	Hawaii
 	Illinois
 	Massachusetts
 	Maryland
