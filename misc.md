@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 ## Design projects
 
-I have been fortunate to collaborate with many talented designers and artists. Below is a list of our projects.
+I have been fortunate to collaborate with talented designers and artists on some interesting projects.
 
 - [(Still) Life](http://tracer.cs.yale.edu:8087/)
 
