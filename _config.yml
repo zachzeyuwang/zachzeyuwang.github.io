@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zach Zeyu Wang
+title: Zeyu Wang
 email: firstname.lastname [at] yale.edu
-description:  am a Ph.D. candidate in computer graphics at Yale University. My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage. Before coming to Yale, I received B.S. (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.
+description: I am a Ph.D. candidate in computer graphics at Yale University. My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage. Before coming to Yale, I received B.S. (Summa Cum Laude) in machine intelligence from School of EECS, Peking University in 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zachzeyuwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # linkedin_username: zachzeyuwang
