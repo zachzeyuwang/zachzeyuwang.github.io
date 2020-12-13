@@ -7,7 +7,7 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
-		<img src="assets/images/zach.jpg" width="580px"/>
+		<img src="assets/images/zach.jpg" width="550px"/>
 	</td>
 	<td style="border:0px">
 		I am a PhD candidate in computer graphics at Yale University. My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.<br><br>
