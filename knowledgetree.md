@@ -1,5 +1,5 @@
 ---
-title: Knowledge Tree
+title: Knowledge tree
 layout: page
 ---
 This is a fun visualization of academic areas that I am familiar with, especially related to courses I have taken in college and graduate school.

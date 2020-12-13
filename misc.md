@@ -1,7 +1,6 @@
 ---
 title: Misc.
 layout: page
-permalink: /misc/
 ---
 ## Design projects
 

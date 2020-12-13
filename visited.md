@@ -1,5 +1,5 @@
 ---
-title: Visited Places
+title: Visited places
 layout: page
 ---
 I am envisioning an interactive visualization that can link time, location, photos, and other heterogeneous data in lieu of these static images.
