@@ -31,7 +31,8 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Cuong Nguyen, Paul Asente, Julie Dorsey<br>
 		DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments<br>
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2021<br>
-		[to appear]
+		<a href="https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf">[pdf]</a>
+		[more to come]
 	</td>
 </tr>
 <tr style="border:0px">
