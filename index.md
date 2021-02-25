@@ -6,10 +6,10 @@ layout: page_no_title
 ---
 <table style="border:0px">
 <tr style="border:0px">
-	<td style="border:0px">
+	<td style="border:0px; width:150%">
 		<img src="assets/images/zach.jpg" width="550px"/>
 	</td>
-	<td style="border:0px; text-align: justify; text-justify: inter-word;">
+	<td style="border:0px; text-align:justify; text-justify:inter-word;">
 		I am a PhD candidate in computer graphics at Yale University.
 		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
 		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a> (2021).
