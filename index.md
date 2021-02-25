@@ -10,7 +10,10 @@ layout: page_no_title
 		<img src="assets/images/zach.jpg" width="550px"/>
 	</td>
 	<td style="border:0px">
-		I am a PhD candidate in computer graphics at Yale University. My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.<br><br>
+		I am a PhD candidate in computer graphics at Yale University.
+		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
+		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a> (2021).
+		<br><br>
 		Before coming to Yale, I received BS (summa cum laude) in machine intelligence from School of EECS, Peking University in 2016.<br><br>
 		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
