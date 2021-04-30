@@ -34,7 +34,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Zeyu Wang</b>, Sherry Qiu, Nicole Feng, Holly Rushmeier, Leonard McMillan, Julie Dorsey<br>
 		Tracing Versus Freehand for Evaluating Computer-Generated Drawings<br>
-		<i>ACM Transactions on Graphics</i> (SIGGRAPH 2021)<br>
+		<i>ACM Transactions on Graphics (SIGGRAPH)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand.pdf">[pdf]</a>
 		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
 		<a onclick="copyBibTeX(11)">[bibtex]</a>
@@ -60,7 +60,7 @@ layout: page_no_title
 	<td style="border:0px">
 		Davit Gigilashvili, Weiqi Shi, <b>Zeyu Wang</b>, Marius Pedersen, Jon Yngve Hardeberg, Holly Rushmeier<br>
 		The Role of Subsurface Scattering in Glossiness Perception<br>
-		<i>ACM Transactions on Applied Perception</i>, 2021<br>
+		<i>ACM Transactions on Applied Perception (TAP)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/mainsupplementary.pdf">[pdf]</a>
 		<a onclick="copyBibTeX(9)">[bibtex]</a>
 	</td>
