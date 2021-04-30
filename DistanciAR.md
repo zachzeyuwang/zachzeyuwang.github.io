@@ -3,29 +3,24 @@ title: DistanciAR
 layout: page_no_title
 ---
 ## DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments
-{: style="text-align: center;"}
+{: style="text-align: center"}
 
 Zeyu Wang<sup>1</sup>, <a href="http://www.cuongnd.com/">Cuong Nguyen</a><sup>2</sup>, <a href="https://research.adobe.com/person/paul-asente/">Paul Asente</a><sup>2</sup>, <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a><sup>1</sup>
-{: style="text-align: center;"}
+{: style="text-align: center"}
 
 Yale University<sup>1</sup>, Adobe Research<sup>2</sup>
-{: style="text-align: center;"}
+{: style="text-align: center"}
 
 ACM CHI Conference on Human Factors in Computing Systems, 2021
-{: style="text-align: center;"}
+{: style="text-align: center"}
 
 <b>Paper:</b>
 <a href="https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf">[pdf]</a>
 <a onclick="copyBibTeX()">[bibtex]</a>
 
 <b>Abstract:</b>
-Most augmented reality (AR) authoring tools only support the author's current environment, but designers often need to create site-specific experiences for a different environment.
-We propose DistanciAR, a novel tablet-based workflow for remote AR authoring.
-Our baseline solution involves three steps.
-A remote environment is captured by a camera with LiDAR; then, the author creates an AR experience from a different location using AR interactions; finally, a remote viewer consumes the AR content on site.
-A formative study revealed understanding and navigating the remote space as key challenges with this solution.
-We improved the authoring interface by adding two novel modes: Dollhouse, which renders a bird's-eye view, and Peek, which creates photorealistic composite images using captured images.
-A second study compared this improved system with the baseline, and participants reported that the new modes made it easier to understand and navigate the remote scene.
+Most augmented reality (AR) authoring tools only support the author's current environment, but designers often need to create site-specific experiences for a different environment. We propose DistanciAR, a novel tablet-based workflow for remote AR authoring. Our baseline solution involves three steps. A remote environment is captured by a camera with LiDAR; then, the author creates an AR experience from a different location using AR interactions; finally, a remote viewer consumes the AR content on site. A formative study revealed understanding and navigating the remote space as key challenges with this solution. We improved the authoring interface by adding two novel modes: Dollhouse, which renders a bird's-eye view, and Peek, which creates photorealistic composite images using captured images. A second study compared this improved system with the baseline, and participants reported that the new modes made it easier to understand and navigate the remote scene.
+{: style="text-align: justify"}
 
 <b>Video:</b>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/Ez9edE_jFo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
