@@ -49,7 +49,7 @@ layout: page_no_title
 		DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments<br>
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf">[pdf]</a>
-		[project]
+		<a href="/DistanciAR">[project]</a>
 		<a onclick="copyBibTeX(10)">[bibtex]</a>
 	</td>
 </tr>

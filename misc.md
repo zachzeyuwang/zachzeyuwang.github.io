@@ -14,8 +14,8 @@ I have been fortunate to collaborate with talented designers and artists on some
 
 - [Bigelow Boilerworks](https://www.benjamindavidolsen.com/boilerworks-reconstructed)
 
-## [Sinosphere](/sinosphere.html)
+## [Sinosphere](/sinosphere)
 
-## [Knowledge tree](/knowledgetree.html)
+## [Knowledge tree](/knowledgetree)
 
-## [Visited places](/visited.html)
+## [Visited places](/visited)
