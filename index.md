@@ -29,6 +29,19 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px">
+		<img src="assets/images/tracing.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Zeyu Wang</b>, Sherry Qiu, Nicole Feng, Holly Rushmeier, Leonard McMillan, Julie Dorsey<br>
+		Tracing Versus Freehand for Evaluating Computer-Generated Drawings<br>
+		<i>ACM Transactions on Graphics</i> (SIGGRAPH 2021)<br>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand.pdf">[pdf]</a>
+		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
+		<a onclick="copyBibTeX(11)">[bibtex]</a>
+	</td>
+</tr>
+<tr>
+	<td style="border:0px">
 		<img src="assets/images/distanciar.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
@@ -36,7 +49,20 @@ layout: page_no_title
 		DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments<br>
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf">[pdf]</a>
-		[more to come]
+		[project]
+		<a onclick="copyBibTeX(10)">[bibtex]</a>
+	</td>
+</tr>
+<tr>
+	<td style="border:0px">
+		<img src="assets/images/davit.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Davit Gigilashvili, Weiqi Shi, <b>Zeyu Wang</b>, Marius Pedersen, Jon Yngve Hardeberg, Holly Rushmeier<br>
+		The Role of Subsurface Scattering in Glossiness Perception<br>
+		<i>ACM Transactions on Applied Perception</i>, 2021<br>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/mainsupplementary.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(9)">[bibtex]</a>
 	</td>
 </tr>
 <tr style="border:0px">
@@ -155,6 +181,15 @@ function copyBibTeX(id) {
 	var tempInput = document.createElement("textarea");
 	tempInput.style = "position: absolute; left: -1000px; top: -1000px";
 	switch (id) {
+		case 11:
+		tempInput.value = "@article{Wang:2021:Tracing,\nauthor = {Wang, Zeyu and Qiu, Sherry and Feng, Nicole and Rushmeier,  Holly and McMillan, Leonard and Dorsey, Julie},\ntitle = {Tracing Versus Freehand for Evaluating Computer-Generated Drawings},\nyear = {2021},\nissue_date = {August 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {40},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3450626.3459819},\ndoi = {10.1145/3450626.3459819},\njournal = {ACM Trans. Graph.},\nmonth = aug,\nnumpages = {12},\nkeywords = {sketch dataset, drawing process, stroke analysis}\n}";
+		break;
+		case 10:
+		tempInput.value = "@inproceedings{Wang:2021:DistanciAR,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments},\nyear = {2021},\nisbn = {9781450380966},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3411764.3445552},\ndoi = {10.1145/3411764.3445552},\nbooktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\npages = {1–12},\nnumpages = {12},\nkeywords = {augmented reality, remote authoring, spatial design, 3D scanning},\nlocation = {Yokohama, Japan},\nseries = {CHI '21}\n}";
+		break;
+		case 9:
+		tempInput.value = "@article{Gigilashvili:2021:Gloss,\ntitle={The Role of Subsurface Scattering in Glossiness Perception},\nauthor={Gigilashvili, Davit and Shi, Weiqi and Wang, Zeyu and Pedersen, Marius and Hardeberg, Jon Yngve and Rushmeier, Holly},\njournal={ACM Transactions on Applied Perception},\npublisher={Association for Computing Machinery},\nyear={2021}\n}";
+		break;
 		case 8:
 		tempInput.value = "@article{Wang:2019:AniCode,\nauthor = {Wang, Zeyu and Qiu, Shiyu and Chen, Qingyang and Trayan, Natallia and Ringlein, Alexander and Dorsey, Julie and Rushmeier, Holly},\ntitle = {{AniCode}: Authoring Coded Artifacts for Network-Free Personalized Animations},\njournal = {The Visual Computer},\nyear = {2019},\nmonth = {Jun},\nday = {01},\nvolume = {35},\nnumber = {6},\npages = {885--897},\nissn = {1432-2315},\ndoi = {10.1007/s00371-019-01681-y},\nurl = {https://doi.org/10.1007/s00371-019-01681-y}\n}";
 		break;
