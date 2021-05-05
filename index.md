@@ -35,7 +35,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Sherry Qiu, Nicole Feng, Holly Rushmeier, Leonard McMillan, Julie Dorsey<br>
 		Tracing Versus Freehand for Evaluating Computer-Generated Drawings<br>
 		<i>ACM Transactions on Graphics (SIGGRAPH)</i>, 2021<br>
-		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand.pdf">[pdf]</a>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf">[pdf]</a>
 		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
 		<a onclick="copyBibTeX(11)">[bibtex]</a>
 	</td>
