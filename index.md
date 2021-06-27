@@ -27,6 +27,7 @@ layout: page_no_title
 
 ## Publications
 <table style="border:0px">
+{% if 1==1 %}
 <tr style="border:0px">
 	<td style="border:0px">
 		<img src="assets/images/tracing.jpg" width="200px"/>
@@ -41,6 +42,7 @@ layout: page_no_title
 		<a onclick="copyBibTeX(12)">[bibtex]</a>
 	</td>
 </tr>
+{% endif %}
 <tr>
 	<td style="border:0px">
 		<img src="assets/images/distanciar.jpg" width="200px"/>
@@ -56,18 +58,6 @@ layout: page_no_title
 </tr>
 <tr>
 	<td style="border:0px">
-		<img src="assets/images/davit.jpg" width="200px"/>
-	</td>
-	<td style="border:0px">
-		Davit Gigilashvili, Weiqi Shi, <b>Zeyu Wang</b>, Marius Pedersen, Jon Yngve Hardeberg, Holly Rushmeier<br>
-		The Role of Subsurface Scattering in Glossiness Perception<br>
-		<i>ACM Transactions on Applied Perception (TAP)</i>, 2021<br>
-		<a href="https://graphics.cs.yale.edu/sites/default/files/mainsupplementary.pdf">[pdf]</a>
-		<a onclick="copyBibTeX(10)">[bibtex]</a>
-	</td>
-</tr>
-<tr>
-	<td style="border:0px">
 		<img src="assets/images/perceptual.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
@@ -75,6 +65,18 @@ layout: page_no_title
 		A Low-Dimensional Perceptual Space for Intuitive BRDF Editing<br>
 		<i>Eurographics Symposium on Rendering (EGSR)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/paper1006_preprint.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(10)">[bibtex]</a>
+	</td>
+</tr>
+<tr>
+	<td style="border:0px">
+		<img src="assets/images/davit.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Davit Gigilashvili, Weiqi Shi, <b>Zeyu Wang</b>, Marius Pedersen, Jon Yngve Hardeberg, Holly Rushmeier<br>
+		The Role of Subsurface Scattering in Glossiness Perception<br>
+		<i>ACM Transactions on Applied Perception (TAP)</i>, 2021<br>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/mainsupplementary.pdf">[pdf]</a>
 		<a onclick="copyBibTeX(9)">[bibtex]</a>
 	</td>
 </tr>
@@ -201,10 +203,10 @@ function copyBibTeX(id) {
 		tempInput.value = "@inproceedings{Wang:2021:DistanciAR,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments},\nyear = {2021},\nisbn = {9781450380966},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3411764.3445552},\ndoi = {10.1145/3411764.3445552},\nbooktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\narticleno = {411},\nnumpages = {12},\nkeywords = {augmented reality, remote authoring, spatial design, 3D scanning},\nlocation = {Yokohama, Japan},\nseries = {CHI '21}\n}";
 		break;
 		case 10:
-		tempInput.value = "@article{Gigilashvili:2021:Gloss,\nauthor = {Gigilashvili, Davit and Shi, Weiqi and Wang, Zeyu and Pedersen, Marius and Hardeberg, Jon Yngve and Rushmeier, Holly},\ntitle = {The Role of Subsurface Scattering in Glossiness Perception},\nyear = {2021},\nissue_date = {May 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {18},\nnumber = {3},\nissn = {1544-3558},\nurl = {https://doi.org/10.1145/3458438},\ndoi = {10.1145/3458438},\njournal = {ACM Trans. Appl. Percept.},\nmonth = may,\narticleno = {10},\nnumpages = {26},\nkeywords = {gloss perception, translucency perception, Material appearance, MTurk, subsurface light transport}\n}";
+		tempInput.value = "@inproceedings{Shi:2021:Perceptual,\nbooktitle = {Eurographics Symposium on Rendering},\neditor = {Adrien Bousseau and Morgan McGuire},\ntitle = {{A Low-Dimensional Perceptual Space for Intuitive BRDF Editing}},\nauthor = {Shi, Weiqi and Wang, Zeyu and Soler, Cyril and Rushmeier, Holly},\nyear = {2021},\npublisher = {The Eurographics Association}\n}";
 		break;
 		case 9:
-		tempInput.value = "@inproceedings{Shi:2021:Perceptual,\nbooktitle = {Eurographics Symposium on Rendering},\neditor = {Adrien Bousseau and Morgan McGuire},\ntitle = {{A Low-Dimensional Perceptual Space for Intuitive BRDF Editing}},\nauthor = {Shi, Weiqi and Wang, Zeyu and Soler, Cyril and Rushmeier, Holly},\nyear = {2021},\npublisher = {The Eurographics Association}\n}";
+		tempInput.value = "@article{Gigilashvili:2021:Gloss,\nauthor = {Gigilashvili, Davit and Shi, Weiqi and Wang, Zeyu and Pedersen, Marius and Hardeberg, Jon Yngve and Rushmeier, Holly},\ntitle = {The Role of Subsurface Scattering in Glossiness Perception},\nyear = {2021},\nissue_date = {May 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {18},\nnumber = {3},\nissn = {1544-3558},\nurl = {https://doi.org/10.1145/3458438},\ndoi = {10.1145/3458438},\njournal = {ACM Trans. Appl. Percept.},\nmonth = may,\narticleno = {10},\nnumpages = {26},\nkeywords = {gloss perception, translucency perception, Material appearance, MTurk, subsurface light transport}\n}";
 		break;
 		case 8:
 		tempInput.value = "@article{Wang:2019:AniCode,\nauthor = {Wang, Zeyu and Qiu, Shiyu and Chen, Qingyang and Trayan, Natallia and Ringlein, Alexander and Dorsey, Julie and Rushmeier, Holly},\ntitle = {{AniCode}: Authoring Coded Artifacts for Network-Free Personalized Animations},\njournal = {The Visual Computer},\nyear = {2019},\nmonth = {Jun},\nday = {01},\nvolume = {35},\nnumber = {6},\npages = {885--897},\nissn = {1432-2315},\ndoi = {10.1007/s00371-019-01681-y},\nurl = {https://doi.org/10.1007/s00371-019-01681-y}\n}";
