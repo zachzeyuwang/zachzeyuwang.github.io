@@ -12,9 +12,9 @@ layout: page_no_title
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
 		I am a PhD candidate in computer graphics at Yale University.
 		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
-		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>.
+		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. I received my BS (summa cum laude) in machine intelligence from School of EECS, Peking University in 2016.
 		<br><br>
-		Before coming to Yale, I received my BS (summa cum laude) in machine intelligence from School of EECS, Peking University in 2016.
+		<span style="color:red">I am actively applying for academic and industrial research positions. Feel free to reach out!</span>
 		<br><br>
 		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
