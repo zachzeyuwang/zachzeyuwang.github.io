@@ -2,10 +2,10 @@
 title: Visited places
 layout: page
 ---
-I am envisioning an interactive visualization that can link time, location, photos, and other heterogeneous data in lieu of these static images.
+<!-- I am envisioning an interactive visualization that can link time, location, photos, and other heterogeneous data in lieu of these static images.
 
 ## World
-![World]({{ "/assets/images/misc/world.png" | absolute_url }})
+![World]({{ "/assets/images/misc/world.png" | absolute_url }}) -->
 <!--
 	China
 	Japan
@@ -14,8 +14,8 @@ I am envisioning an interactive visualization that can link time, location, phot
 	USA
 -->
 
-## China
-![China]({{ "/assets/images/misc/china.png" | absolute_url }})
+<!-- ## China
+![China]({{ "/assets/images/misc/china.png" | absolute_url }}) -->
 <!--
 	Anhui
 	Beijing
@@ -44,8 +44,8 @@ I am envisioning an interactive visualization that can link time, location, phot
 	Zhejiang
 -->
 	
-## USA
-![USA]({{ "/assets/images/misc/usa.png" | absolute_url }})
+<!-- ## USA
+![USA]({{ "/assets/images/misc/usa.png" | absolute_url }}) -->
 <!--
 	Arizona
 	California
@@ -65,6 +65,8 @@ I am envisioning an interactive visualization that can link time, location, phot
 	Nevada
 	New York
 	Pennsylvania
+	Puerto Rico
+	Rhode Island
 	Virginia
 	Vermont
 -->

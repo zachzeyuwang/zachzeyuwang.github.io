@@ -39,7 +39,7 @@ layout: page_no_title
 		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf">[pdf]</a>
 		<a href="http://tracer.cs.yale.edu:8000/tracing-vs-freehand/">[project]</a>
 		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
-		<a onclick="copyBibTeX(12)">[bibtex]</a>
+		<a onclick="copyBibTeX(13)">[bibtex]</a>
 	</td>
 </tr>
 {% endif %}
@@ -53,7 +53,7 @@ layout: page_no_title
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf">[pdf]</a>
 		<a href="/DistanciAR">[project]</a>
-		<a onclick="copyBibTeX(11)">[bibtex]</a>
+		<a onclick="copyBibTeX(12)">[bibtex]</a>
 	</td>
 </tr>
 <tr>
@@ -65,6 +65,19 @@ layout: page_no_title
 		A Low-Dimensional Perceptual Space for Intuitive BRDF Editing<br>
 		<i>Eurographics Symposium on Rendering (EGSR)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/paper1006_preprint.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(11)">[bibtex]</a>
+	</td>
+</tr>
+<tr>
+	<td style="border:0px">
+		<img src="assets/images/dura.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Yifen Shen, <b>Zeyu Wang</b>, Qinying Sun, Anne Chen, Holly Rushmeier<br>
+		Reconstructing Dura-Europos From Sparse Photo Collections Using Deep Contour Extraction<br>
+		<i>Eurographics Workshop on Graphics and Cultural Heritage (EG GCH)</i>, 2021<br>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/gch2021_crc_1.pdf">[pdf]</a>
+		<a href="https://youtu.be/rgDLIA-Wz4M">[video]</a>
 		<a onclick="copyBibTeX(10)">[bibtex]</a>
 	</td>
 </tr>
@@ -196,14 +209,17 @@ function copyBibTeX(id) {
 	var tempInput = document.createElement("textarea");
 	tempInput.style = "position: absolute; left: -1000px; top: -1000px";
 	switch (id) {
-		case 12:
+		case 13:
 		tempInput.value = "@article{Wang:2021:Tracing,\nauthor = {Wang, Zeyu and Qiu, Sherry and Feng, Nicole and Rushmeier,  Holly and McMillan, Leonard and Dorsey, Julie},\ntitle = {Tracing Versus Freehand for Evaluating Computer-Generated Drawings},\nyear = {2021},\nissue_date = {August 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {40},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3450626.3459819},\ndoi = {10.1145/3450626.3459819},\njournal = {ACM Trans. Graph.},\nmonth = aug,\nnumpages = {12},\nkeywords = {sketch dataset, drawing process, stroke analysis}\n}";
 		break;
-		case 11:
+		case 12:
 		tempInput.value = "@inproceedings{Wang:2021:DistanciAR,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments},\nyear = {2021},\nisbn = {9781450380966},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3411764.3445552},\ndoi = {10.1145/3411764.3445552},\nbooktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\narticleno = {411},\nnumpages = {12},\nkeywords = {augmented reality, remote authoring, spatial design, 3D scanning},\nlocation = {Yokohama, Japan},\nseries = {CHI '21}\n}";
 		break;
-		case 10:
+		case 11:
 		tempInput.value = "@inproceedings{Shi:2021:Perceptual,\nbooktitle = {Eurographics Symposium on Rendering},\neditor = {Adrien Bousseau and Morgan McGuire},\ntitle = {{A Low-Dimensional Perceptual Space for Intuitive BRDF Editing}},\nauthor = {Shi, Weiqi and Wang, Zeyu and Soler, Cyril and Rushmeier, Holly},\nyear = {2021},\npublisher = {The Eurographics Association}\n}";
+		break;
+		case 10:
+		tempInput.value = "@inproceedings{Shen:2021:Dura,\nbooktitle = {Eurographics Workshop on Graphics and Cultural Heritage},\neditor = {‪Alan Chalmers and Vedad Hulusic},\ntitle = {Reconstructing Dura-Europos From Sparse Photo Collections Using Deep Contour Extraction},\nauthor = {Shen, Yifei and Wang, Zeyu and Sun, Qinying and Chen, Anne and Rushmeier, Holly},\nyear = {2021},\npublisher = {The Eurographics Association}\n}";
 		break;
 		case 9:
 		tempInput.value = "@article{Gigilashvili:2021:Gloss,\nauthor = {Gigilashvili, Davit and Shi, Weiqi and Wang, Zeyu and Pedersen, Marius and Hardeberg, Jon Yngve and Rushmeier, Holly},\ntitle = {The Role of Subsurface Scattering in Glossiness Perception},\nyear = {2021},\nissue_date = {May 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {18},\nnumber = {3},\nissn = {1544-3558},\nurl = {https://doi.org/10.1145/3458438},\ndoi = {10.1145/3458438},\njournal = {ACM Trans. Appl. Percept.},\nmonth = may,\narticleno = {10},\nnumpages = {26},\nkeywords = {gloss perception, translucency perception, Material appearance, MTurk, subsurface light transport}\n}";
