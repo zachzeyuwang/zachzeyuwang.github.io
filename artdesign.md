@@ -11,14 +11,14 @@ I have been fortunate to collaborate with Borou Yu, Jiajian Min, Tiange Zhou, an
 
 ## Drawing and painting
 <img src="assets/images/misc/shape.jpg"/>
-<img src="assets/images/misc/face.jpg" width="50%"/>
-<img src="assets/images/misc/hand.jpg" width="50%"/>
-<img src="assets/images/misc/upsidedown.jpg" width="50%"/>
-<img src="assets/images/misc/painting.jpg" width="50%"/>
+<img src="assets/images/misc/portrait.jpg" width="49.5%"/>
+<img src="assets/images/misc/hand.jpg" width="49.5%"/>
+<img src="assets/images/misc/upsidedown.jpg" width="49.5%"/>
+<img src="assets/images/misc/painting.jpg" width="49.5%"/>
 
 ## Photography and videography
 <img src="assets/images/misc/centralpark.jpg"/>
 <img src="assets/images/misc/sunset.jpg"/>
-<video controls>
+<video controls width="100%">
 	<source src="assets/images/misc/eastrock.mp4" type="video/mp4">
 </video>
