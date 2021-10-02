@@ -14,6 +14,7 @@ I have been fortunate to collaborate with Borou Yu, Jiajian Min, Tiange Zhou, an
 <img src="assets/images/misc/portrait.jpg" width="49.5%"/>
 <img src="assets/images/misc/hand.jpg" width="49.5%"/>
 <img src="assets/images/misc/upsidedown.jpg" width="49.5%"/>
+<img src="assets/images/misc/handsomedan.png" width="49.5%"/>
 <img src="assets/images/misc/painting.jpg" width="49.5%"/>
 
 ## Photography and videography
