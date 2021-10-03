@@ -40,7 +40,7 @@ Most augmented reality (AR) authoring tools only support the author's current en
 function copyBibTeX() {
 	var tempInput = document.createElement("textarea");
 	tempInput.style = "position: absolute; left: -1000px; top: -1000px";
-  tempInput.value = "@inproceedings{Wang:2021:DistanciAR,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments},\nyear = {2021},\nisbn = {9781450380966},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3411764.3445552},\ndoi = {10.1145/3411764.3445552},\nbooktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\narticleno = {411},\nnumpages = {12},\nkeywords = {augmented reality, remote authoring, spatial design, 3D scanning},\nlocation = {Yokohama, Japan},\nseries = {CHI '21}\n}";
+	tempInput.value = "@inproceedings{Wang:2021:DistanciAR,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments},\nyear = {2021},\nisbn = {9781450380966},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3411764.3445552},\ndoi = {10.1145/3411764.3445552},\nbooktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\narticleno = {411},\nnumpages = {12},\nkeywords = {augmented reality, remote authoring, spatial design, 3D scanning},\nlocation = {Yokohama, Japan},\nseries = {CHI '21}\n}";
 	document.body.appendChild(tempInput);
 	tempInput.select();
 	document.execCommand("copy");

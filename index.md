@@ -37,7 +37,7 @@ layout: page_no_title
 		Tracing Versus Freehand for Evaluating Computer-Generated Drawings<br>
 		<i>ACM Transactions on Graphics (SIGGRAPH)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf">[pdf]</a>
-		<a href="http://tracer.cs.yale.edu:8000/tracing-vs-freehand/">[project]</a>
+		<a href="/tracing-vs-freehand">[project]</a>
 		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
 		<a onclick="copyBibTeX(13)">[bibtex]</a>
 	</td>
