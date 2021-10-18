@@ -40,6 +40,7 @@ layout: page_no_title
 		<a href="/tracing-vs-freehand">[project]</a>
 		<a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
 		<a onclick="copyBibTeX(13)">[bibtex]</a>
+		<span style="color:red">Invited Presentation at IEEE VIS 2021</span>
 	</td>
 </tr>
 {% endif %}
