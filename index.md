@@ -104,7 +104,7 @@ layout: page_no_title
 		<i>The Visual Computer</i>, 2019<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/wang2019_article_anicodeauthoringcodedartifacts.pdf">[pdf]</a>
 		<a href="https://youtu.be/qqzOLu47alw">[video]</a>
-		<a href="http://tracer.cs.yale.edu/AniCode">[demo]</a>
+		<a href="https://tracer.cs.yale.edu/AniCode">[demo]</a>
 		<a href="https://github.com/zachzeyuwang/AniCode">[code]</a>
 		<a onclick="copyBibTeX(8)">[bibtex]</a>
 	</td>
