@@ -16,7 +16,7 @@ ACM Transactions on Graphics, 2021. Presented at SIGGRAPH and IEEE VIS.
 
 <b>Links:</b>
 <a href="https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf">[pdf]</a>
-<a href="http://tracer.cs.yale.edu:8000/tracing-vs-freehand/">[supplemental]</a>
+<a href="http://tracer.cs.yale.edu/tracing-vs-freehand/">[supplemental]</a>
 <a href="https://github.com/zachzeyuwang/tracing-vs-freehand">[dataset]</a>
 <a onclick="copyBibTeX()">[bibtex]</a>
 
