@@ -79,6 +79,7 @@ layout: page_no_title
 		<i>Eurographics Workshop on Graphics and Cultural Heritage (EG GCH)</i>, 2021<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/gch2021_crc_1.pdf">[pdf]</a>
 		<a href="https://youtu.be/rgDLIA-Wz4M">[video]</a>
+		<a href="https://tracer.cs.yale.edu:8887/">[interface]</a>
 		<a onclick="copyBibTeX(10)">[bibtex]</a>
 	</td>
 </tr>
