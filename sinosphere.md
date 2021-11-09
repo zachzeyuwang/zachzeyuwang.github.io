@@ -2,7 +2,7 @@
 title: Sinosphere
 layout: page
 ---
-I am interested in Eastern Asian culture, including Chinese characters, dialects in China, and languages such as Japanese, Korean, and Vietnamese. My English name Zach is supposed to be the pronunciation of my Chinese name 澤 in [Middle Chinese](https://en.wikipedia.org/wiki/Middle_Chinese).
+I am interested in East Asian culture, including Chinese characters, dialects in China, and languages such as Japanese, Korean, and Vietnamese. My English name Zach is supposed to be the pronunciation of my Chinese name 澤 in [Middle Chinese](https://en.wikipedia.org/wiki/Middle_Chinese).
 
 Below is my personal introduction in Chinese, Japanese, Korean, and Vietnamese with Chinese characters. This is a very interesting mini corpus that shows how closely these East Asian languages are connected.
 
