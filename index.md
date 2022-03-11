@@ -14,7 +14,6 @@ layout: page_no_title
 		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
 		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>.
 		I received my BS (summa cum laude) in machine intelligence from School of EECS, Peking University in 2016.
-		<span style="color:red">I am actively applying for academic and industry research positions. Feel free to reach out!</span>
 		<br><br>
 		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
@@ -157,7 +156,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Dian Shao, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
 		Digital Longmen Project: A Free Walking VR System with Image-Based Restoration<br>
 		<i>Asian Conference on Computer Vision (ACCV) Workshop on e-Heritage</i>, 2016<br>
-		<a href="http://tracer.cs.yale.edu:8000/papers/Longmen.pdf">[pdf]</a>
+		<a href="http://tracer.cs.yale.edu/papers/Longmen.pdf">[pdf]</a>
 		<a href="https://youtu.be/x_hPkkbz0o0">[seminar]</a>
 		<a href="https://youtu.be/zbYUtkQ9vQ4">[video]</a>
 		<a onclick="copyBibTeX(4)">[bibtex]</a>
@@ -171,7 +170,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
 		Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency<br>
 		<i>ACM Conference on Virtual Reality Software and Technology (VRST)</i>, 2016<br>
-		<a href="http://tracer.cs.yale.edu:8000/papers/Horopter.pdf">[pdf]</a>
+		<a href="http://tracer.cs.yale.edu/papers/Horopter.pdf">[pdf]</a>
 		<a href="https://youtu.be/EMN9zlDqXlM">[video]</a>
 		<a onclick="copyBibTeX(3)">[bibtex]</a>
 	</td>
@@ -184,7 +183,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, James K. Min, Guanglei Xiong<br>
 		Robotics-Driven Printing of Curved 3D Structures for Manufacturing Cardiac Therapeutic Devices<br>
 		<i>IEEE International Conference on Robotics and Biomimetics (ROBIO)</i>, 2015<br>
-		<a href="http://tracer.cs.yale.edu:8000/papers/Robotics.pdf">[pdf]</a>
+		<a href="http://tracer.cs.yale.edu/papers/Robotics.pdf">[pdf]</a>
 		<a href="https://youtu.be/JEqd8QHtf0Q">[video]</a>
 		<a onclick="copyBibTeX(2)">[bibtex]</a>
 	</td>
@@ -197,7 +196,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Xin He, Renju Li, Hongbin Zha<br>
 		Panorama to Cube: A Content-Aware Representation Method<br>
 		<i>ACM SIGGRAPH Asia Technical Briefs</i>, 2015<br>
-		<a href="http://tracer.cs.yale.edu:8000/papers/Panorama.pdf">[pdf]</a>
+		<a href="http://tracer.cs.yale.edu/papers/Panorama.pdf">[pdf]</a>
 		<a href="https://youtu.be/wJy2ZAhunP0">[video]</a>
 		<a href="https://github.com/zachzeyuwang/Panorama-to-Cube">[code]</a>
 		<a onclick="copyBibTeX(1)">[bibtex]</a>
