@@ -10,11 +10,11 @@ layout: page_no_title
 		<img src="assets/images/zach.jpg" width="550px"/>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
-		I am a final-year PhD candidate in computer graphics at Yale University advised by <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a> and <a href="https://graphics.cs.yale.edu/people/holly-rushmeier">Holly Rushmeier</a>.
+		I am a PhD candidate in computer graphics at Yale University advised by <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a> and <a href="https://graphics.cs.yale.edu/people/holly-rushmeier">Holly Rushmeier</a>.
 		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
 		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>.
 		I received my BS in machine intelligence from School of EECS, Peking University in 2016.<br>
-		<span style="color:red">Open Positions: I will be joining HKUST-GZ this fall as an assistant professor. Please send me an email if you are interested in working with me. [<a href="https://mp.weixin.qq.com/s/LuBV1Ih-Sj1XjWkrrdyfAg">zh</a>, <a href="https://cma.hkust-gz.edu.cn/admissions/">en</a>]</span>
+		<span style="color:red">Open Positions: I will be joining HKUST-GZ as an assistant professor. Drop me an email if you are interested in working with me. [<a href="https://mp.weixin.qq.com/s/LuBV1Ih-Sj1XjWkrrdyfAg">zh</a>, <a href="https://cma.hkust-gz.edu.cn/admissions/">en</a>]</span>
 		<br><br>
 		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
