@@ -7,19 +7,17 @@ layout: page_no_title
 <table style="border:0px">
 <tr style="border:0px">
 	<td style="border:0px; width:28%">
-		<img src="assets/images/zach.jpg" width="550px"/>
+		<img src="assets/images/zeyu.jpg" width="550px"/>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
-		I am a PhD candidate in computer graphics at Yale University advised by <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a> and <a href="https://graphics.cs.yale.edu/people/holly-rushmeier">Holly Rushmeier</a>.
-		My research focuses on VR/AR and sketching interfaces for content creation, with applications in design, perception, and cultural heritage.
-		My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>.
-		I received my BS in machine intelligence from School of EECS, Peking University in 2016.<br>
-		<span style="color:red">Open Positions: I will be joining HKUST-GZ as an assistant professor. Drop me an email if you are interested in working with me. [<a href="https://mp.weixin.qq.com/s/LuBV1Ih-Sj1XjWkrrdyfAg">zh</a>, <a href="https://cma.hkust-gz.edu.cn/admissions/">en</a>]</span>
+		I am an Assistant Professor of <a href="https://cma.hkust-gz.edu.cn/">Computational Media and Arts (CMA)</a> in the <a href="https://infh.hkust-gz.edu.cn/">Information Hub</a> at the <a href="https://hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> and an Affiliated Assistant Professor in the <a href="https://cse.hkust.edu.hk/">Department of Computer Science and Engineering</a> at the <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>. He received a PhD from the <a href="http://cpsc.yale.edu/">Department of Computer Science</a> at <a href="https://www.yale.edu/">Yale University</a>, advised by Profs. <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a> and <a href="https://graphics.cs.yale.edu/people/holly-rushmeier">Holly Rushmeier</a>, and a BS from the <a href="https://www.cis.pku.edu.cn/">School of Artificial Intelligence</a> at <a href="">Peking University</a>, advised by Profs. <a href="https://www.cis.pku.edu.cn/info/1084/1271.htm">Hongbin Zha</a> and <a href="https://www.microsoft.com/en-us/research/people/katsuike/">Katsushi Ikeuchi</a>.
 		<br><br>
-		<a href="https://graphics.cs.yale.edu/">[Yale Graphics Group]</a>
+		My research is at the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on intelligent algorithms and systems for digital content creation. My current research topics include sketching, VR/AR, generative techniques, creative intelligence, synergy between computing the arts, with applications in design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://mp.weixin.qq.com/s/uM4krDiJzIPZ7BuxS-wayA">zh</a>, <a href="https://cma.hkust-gz.edu.cn/admissions/">en</a>]</span>
+		<br><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a>
+		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
 </tr>
 </table>
