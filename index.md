@@ -15,10 +15,11 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px; width:25%">
+		<a href="http://www.zachzeyuwang.com:8000/CV-ZeyuWang-HKUST.pdf">[CV]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a><br>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a><br>
 		<a href="https://orcid.org/0000-0001-5374-6330">[ORCID]</a><br>
-		<a href="https://dblp.uni-trier.de/pid/132/7882-3.html">[dblp]</a><br>
+		<a href="https://dblp.uni-trier.de/pid/132/7882-3.html">[DBLP]</a><br>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a><br>
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
@@ -38,7 +39,7 @@ layout: page_no_title
 	<td style="border:0px">
 		<b>Zeyu Wang</b>, Tuanfeng Y. Wang, Julie Dorsey<br>
 		Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models<br>
-		<i>Pacific Graphics</i>, 2022<br>
+		<i>Pacific Conference on Computer Graphics and Applications (PG)</i>, 2022<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/linedrawinganimation_pg2022.pdf">[pdf]</a>
 		<a onclick="copyBibTeX(16)">[bibtex]</a>
 	</td>
