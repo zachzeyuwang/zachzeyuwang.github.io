@@ -17,6 +17,8 @@ layout: page_no_title
 	<td style="border:0px; width:25%">
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a><br>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a><br>
+		<a href="https://orcid.org/0000-0001-5374-6330">[ORCID]</a><br>
+		<a href="https://dblp.uni-trier.de/pid/132/7882-3.html">[dblp]</a><br>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a><br>
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
@@ -29,7 +31,42 @@ layout: page_no_title
 
 ## Publications
 <table style="border:0px">
-{% if 1==1 %}
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/pg2022.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Zeyu Wang</b>, Tuanfeng Y. Wang, Julie Dorsey<br>
+		Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models<br>
+		<i>Pacific Graphics</i>, 2022<br>
+		<a href="https://graphics.cs.yale.edu/sites/default/files/linedrawinganimation_pg2022.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(16)">[bibtex]</a>
+	</td>
+</tr>
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/uistdemo.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		<b>Zeyu Wang</b>, Cuong, Nguyen, Paul Asente, Julie Dorsey<br>
+		Point Cloud Capture and Editing for AR Environmental Design<br>
+		<i>ACM Symposium on User Interface Software and Technology (UIST) Demos</i>, 2022<br>
+		<a href="http://www.zachzeyuwang.com:8000/papers/UISTdemo.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(15)">[bibtex]</a>
+	</td>
+</tr>
+<tr style="border:0px">
+	<td style="border:0px">
+		<img src="assets/images/damus.jpg" width="200px"/>
+	</td>
+	<td style="border:0px">
+		Tiange Zhou, Borou Yu, Jiajian Min, <b>Zeyu Wang</b><br>
+		DAMUS: A Collaborative System for Choreography and Music Composition<br>
+		<i>IEEE ICME Workshop on Artificial Intelligence for Art Creation (AIART)</i>, 2022<br>
+		<a href="http://www.zachzeyuwang.com:8000/papers/DAMUS.pdf">[pdf]</a>
+		<a onclick="copyBibTeX(14)">[bibtex]</a>
+	</td>
+</tr>
 <tr style="border:0px">
 	<td style="border:0px">
 		<img src="assets/images/tracing.jpg" width="200px"/>
@@ -45,7 +82,6 @@ layout: page_no_title
 		<span style="color:red">Invited Presentation at IEEE VIS 2021</span>
 	</td>
 </tr>
-{% endif %}
 <tr>
 	<td style="border:0px">
 		<img src="assets/images/distanciar.jpg" width="200px"/>
@@ -159,7 +195,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Dian Shao, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
 		Digital Longmen Project: A Free Walking VR System with Image-Based Restoration<br>
 		<i>Asian Conference on Computer Vision (ACCV) Workshop on e-Heritage</i>, 2016<br>
-		<a href="http://tracer.cs.yale.edu/papers/Longmen.pdf">[pdf]</a>
+		<a href="http://www.zachzeyuwang.com:8000/papers/Longmen.pdf">[pdf]</a>
 		<a href="https://youtu.be/x_hPkkbz0o0">[seminar]</a>
 		<a href="https://youtu.be/zbYUtkQ9vQ4">[video]</a>
 		<a onclick="copyBibTeX(4)">[bibtex]</a>
@@ -173,7 +209,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Renju Li, Hongbin Zha, Katsushi Ikeuchi<br>
 		Perceptual Enhancement for Stereoscopic Videos Based on Horopter Consistency<br>
 		<i>ACM Conference on Virtual Reality Software and Technology (VRST)</i>, 2016<br>
-		<a href="http://tracer.cs.yale.edu/papers/Horopter.pdf">[pdf]</a>
+		<a href="http://www.zachzeyuwang.com:8000/papers/Horopter.pdf">[pdf]</a>
 		<a href="https://youtu.be/EMN9zlDqXlM">[video]</a>
 		<a onclick="copyBibTeX(3)">[bibtex]</a>
 	</td>
@@ -186,7 +222,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, James K. Min, Guanglei Xiong<br>
 		Robotics-Driven Printing of Curved 3D Structures for Manufacturing Cardiac Therapeutic Devices<br>
 		<i>IEEE International Conference on Robotics and Biomimetics (ROBIO)</i>, 2015<br>
-		<a href="http://tracer.cs.yale.edu/papers/Robotics.pdf">[pdf]</a>
+		<a href="http://www.zachzeyuwang.com:8000/papers/Robotics.pdf">[pdf]</a>
 		<a href="https://youtu.be/JEqd8QHtf0Q">[video]</a>
 		<a onclick="copyBibTeX(2)">[bibtex]</a>
 	</td>
@@ -199,7 +235,7 @@ layout: page_no_title
 		<b>Zeyu Wang</b>, Xiaohan Jin, Fei Xue, Xin He, Renju Li, Hongbin Zha<br>
 		Panorama to Cube: A Content-Aware Representation Method<br>
 		<i>ACM SIGGRAPH Asia Technical Briefs</i>, 2015<br>
-		<a href="http://tracer.cs.yale.edu/papers/Panorama.pdf">[pdf]</a>
+		<a href="http://www.zachzeyuwang.com:8000/papers/Panorama2Cube.pdf">[pdf]</a>
 		<a href="https://youtu.be/wJy2ZAhunP0">[video]</a>
 		<a href="https://github.com/zachzeyuwang/Panorama-to-Cube">[code]</a>
 		<a onclick="copyBibTeX(1)">[bibtex]</a>
@@ -213,6 +249,15 @@ function copyBibTeX(id) {
 	var tempInput = document.createElement("textarea");
 	tempInput.style = "position: absolute; left: -1000px; top: -1000px";
 	switch (id) {
+		case 16:
+		tempInput.value = "@inproceedings{Wang:2022:DrawAnim,\nbooktitle = {Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers},\neditor = {Umetani, Nobuyuki and Vouga, Etienne and Wojtan, Chris},\ntitle = {{Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models}},\nauthor = {Wang, Zeyu and Wang, Tuanfeng Y., and Dorsey, Julie},\nyear = {2022},\npublisher = {The Eurographics Association},\nISBN = {},\nDOI = {}\n}";
+		break;
+		case 15:
+		tempInput.value = "@inproceedings{Wang:2022:PointCloud,\nauthor = {Wang, Zeyu and Nguyen, Cuong and Asente, Paul and Dorsey, Julie},\ntitle = {Point Cloud Capture and Editing for AR Environmental Design},\nyear = {2022},\nisbn = {9781450393218},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3526114.3558636},\ndoi = {10.1145/3526114.3558636},\nbooktitle = {The Adjunct Publication of the 35th Annual ACM Symposium on User Interface Software and Technology},\nnumpages = {3},\nkeywords = {AR environmental design, point cloud, capture and editing},\nlocation = {Bend, OR, USA},\nseries = {UIST '22}\n}";
+		break;
+		case 14:
+		tempInput.value = "@inproceedings{Zhou:2022:DAMUS,\nauthor={Zhou, Tiange and Yu, Borou and Min, Jiajian and Wang, Zeyu},\nbooktitle={IEEE International Conference on Multimedia and Expo Workshops (ICMEW)},\ntitle={DAMUS: A Collaborative System for Choreography and Music Composition},\nyear={2022},\npages={1-6},\ndoi={10.1109/ICMEW56448.2022.9859441}\n}";
+		break;
 		case 13:
 		tempInput.value = "@article{Wang:2021:Tracing,\nauthor = {Wang, Zeyu and Qiu, Sherry and Feng, Nicole and Rushmeier,  Holly and McMillan, Leonard and Dorsey, Julie},\ntitle = {Tracing Versus Freehand for Evaluating Computer-Generated Drawings},\nyear = {2021},\nissue_date = {August 2021},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {40},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3450626.3459819},\ndoi = {10.1145/3450626.3459819},\njournal = {ACM Trans. Graph.},\nmonth = aug,\nnumpages = {12},\nkeywords = {sketch dataset, drawing process, stroke analysis}\n}";
 		break;
