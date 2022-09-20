@@ -22,7 +22,7 @@ layout: page_no_title
 		<a href="https://orcid.org/0000-0001-5374-6330">[ORCID]</a><br>
 		<a href="https://dblp.uni-trier.de/pid/132/7882-3.html">[DBLP]</a><br>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a><br>
-		<a href="https://github.com/zachzeyuwang">[GitHub]</a>
+		<a href="https://github.com/zachzeyuwang">[GitHub]</a><br>
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
