@@ -16,11 +16,13 @@ layout: page_no_title
 <tr style="border:0px">
 	<td style="border:0px; width:25%">
 		<a href="http://www.zachzeyuwang.com:8000/CV-ZeyuWang-HKUST.pdf">[CV]</a><br>
+		<a href="mailto:zeyuwang [at] ust.hk">[Email]</a><br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a><br>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a><br>
 		<a href="https://orcid.org/0000-0001-5374-6330">[ORCID]</a><br>
 		<a href="https://dblp.uni-trier.de/pid/132/7882-3.html">[DBLP]</a><br>
 		<a href="https://www.linkedin.com/in/zachzeyuwang">[LinkedIn]</a><br>
+		<a href="https://github.com/zachzeyuwang">[GitHub]</a>
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
