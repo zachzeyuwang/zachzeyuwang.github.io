@@ -43,6 +43,7 @@ layout: page_no_title
 		Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models<br>
 		<i>Pacific Conference on Computer Graphics and Applications (PG)</i>, 2022<br>
 		<a href="https://graphics.cs.yale.edu/sites/default/files/linedrawinganimation_pg2022.pdf">[pdf]</a>
+		<a href="/drawing-animation">[project]</a>
 		<a onclick="copyBibTeX(16)">[bibtex]</a>
 	</td>
 </tr>
