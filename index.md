@@ -32,10 +32,10 @@ layout: page_no_title
 </table>
 
 ## News
-- 2022/10 &nbsp; Presented a [paper](/drawing-animation) at Pacific Graphics 2022.
-- 2022/10 &nbsp; Gave a talk at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
-- 2022/9 &nbsp; Gave an [invited talk](https://www.techbeat.net/talk-info?id=717) at TechBeat (in Chinese).
-- 2022/9 &nbsp; Joined HKUST(GZ) as an Assistant Professor.
+- 2022/10 &nbsp;&nbsp; Presented a [paper](/drawing-animation) at Pacific Graphics 2022.
+- 2022/10 &nbsp;&nbsp; Gave a talk at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
+- 2022/09 &nbsp;&nbsp; Gave an [invited talk](https://www.techbeat.net/talk-info?id=717) at TechBeat (in Chinese).
+- 2022/09 &nbsp;&nbsp; Joined HKUST(GZ) as an Assistant Professor.
 
 ## Publications
 <table style="border:0px">
