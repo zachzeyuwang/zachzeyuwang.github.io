@@ -34,7 +34,7 @@ layout: page_no_title
 ## News
 - 2022/10 &nbsp;&nbsp; Gave a talk at Zhejiang Lab. Thanks Prof. [Changqing Zou](https://scholar.google.com/citations?user=kj5HiGgAAAAJ)!
 - 2022/10 &nbsp;&nbsp; Presented a [paper](/drawing-animation) at Pacific Graphics 2022.
-- 2022/10 &nbsp;&nbsp; Gave a talk at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
+- 2022/10 &nbsp;&nbsp; Gave a [talk](https://youtu.be/5Ycdb8O5ZWo) at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
 - 2022/09 &nbsp;&nbsp; Gave an [invited talk](https://www.techbeat.net/talk-info?id=717) at TechBeat (in Chinese).
 - 2022/09 &nbsp;&nbsp; Joined HKUST(GZ) as an Assistant Professor.
 
@@ -58,7 +58,7 @@ layout: page_no_title
 		<img src="assets/images/uistdemo.jpg" width="200px"/>
 	</td>
 	<td style="border:0px">
-		<b>Zeyu Wang</b>, Cuong, Nguyen, Paul Asente, Julie Dorsey<br>
+		<b>Zeyu Wang</b>, Cuong Nguyen, Paul Asente, Julie Dorsey<br>
 		Point Cloud Capture and Editing for AR Environmental Design<br>
 		<i>ACM Symposium on User Interface Software and Technology (UIST) Demos</i>, 2022<br>
 		<a href="http://www.zachzeyuwang.com:8000/papers/UISTdemo.pdf">[pdf]</a>
