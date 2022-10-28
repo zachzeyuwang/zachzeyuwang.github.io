@@ -26,12 +26,13 @@ layout: page_no_title
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
-		I lead the Creative Intelligence and Synergy (CIS) Lab at HKUST(GZ) to study the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on algorithms and systems for digital content creation. My current research topics include sketching, VR/AR/XR, generative techniques, and multimodality, with applications in art, design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://zhuanlan.zhihu.com/p/570458778">招生</a>, <a href="https://cma.hkust-gz.edu.cn/admissions/">Admissions</a>]</span>
+		I lead the Creative Intelligence and Synergy (CIS) Lab at HKUST(GZ) to study the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on algorithms and systems for digital content creation. My current research topics include sketching, VR/AR/XR, generative techniques, and multimodality, with applications in art, design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://zhuanlan.zhihu.com/p/570458778">招生</a>, <a href="https://mp.weixin.qq.com/s/ONMwSZoG-QnOAWhyq9vabQ">Admissions</a>]</span>
 	</td>
 </tr>
 </table>
 
 ## News
+- 2022/10 &nbsp;&nbsp; Gave a talk at Zhejiang Lab. Thanks Prof. [Changqing Zou](https://scholar.google.com/citations?user=kj5HiGgAAAAJ)!
 - 2022/10 &nbsp;&nbsp; Presented a [paper](/drawing-animation) at Pacific Graphics 2022.
 - 2022/10 &nbsp;&nbsp; Gave a talk at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
 - 2022/09 &nbsp;&nbsp; Gave an [invited talk](https://www.techbeat.net/talk-info?id=717) at TechBeat (in Chinese).
