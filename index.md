@@ -32,6 +32,7 @@ layout: page_no_title
 </table>
 
 ## News
+- 2022/11 &nbsp;&nbsp; Received a Best Demo Honorable Mention Award at UIST 2022.
 - 2022/10 &nbsp;&nbsp; Gave a talk at Zhejiang Lab. Thanks Prof. [Changqing Zou](https://scholar.google.com/citations?user=kj5HiGgAAAAJ)!
 - 2022/10 &nbsp;&nbsp; Presented a [paper](/drawing-animation) at Pacific Graphics 2022.
 - 2022/10 &nbsp;&nbsp; Gave a [talk](https://youtu.be/5Ycdb8O5ZWo) at KUIS AI Center. Thanks Prof. [Metin Sezgin](https://iui.ku.edu.tr/people/)!
@@ -63,6 +64,7 @@ layout: page_no_title
 		<i>ACM Symposium on User Interface Software and Technology (UIST) Demos</i>, 2022<br>
 		<a href="http://www.zachzeyuwang.com:8000/papers/UISTdemo.pdf">[pdf]</a>
 		<a onclick="copyBibTeX(15)">[bibtex]</a>
+		<span style="color:red">Best Demo Honorable Mention Award</span>
 	</td>
 </tr>
 <tr style="border:0px">
