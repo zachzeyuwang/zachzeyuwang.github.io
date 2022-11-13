@@ -15,8 +15,10 @@ layout: page_no_title
 </tr>
 <tr style="border:0px">
 	<td style="border:0px; width:25%">
-		<a href="http://www.zachzeyuwang.com:8000/CV-ZeyuWang-HKUST.pdf">[CV]</a><br>
-		<a href="mailto:zeyuwang [at] ust.hk">[Email]</a><br>
+		<!-- <a href="http://www.zachzeyuwang.com:8000/CV-ZeyuWang-HKUST.pdf">[CV]</a><br>
+		<a href="mailto:zeyuwang [at] ust.hk">[Email]</a><br> -->
+		<a href="http://www.zachzeyuwang.com:8080/members/">[Team]</a><br>
+		<br>
 		<a href="https://scholar.google.com/citations?user=q7NLPG0AAAAJ">[Google Scholar]</a><br>
 		<a href="https://www.researchgate.net/profile/Zeyu_Wang4">[ResearchGate]</a><br>
 		<a href="https://orcid.org/0000-0001-5374-6330">[ORCID]</a><br>
@@ -26,7 +28,7 @@ layout: page_no_title
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
 	<td style="border:0px; text-align:justify; text-justify:inter-word;">
-		I lead the Creative Intelligence and Synergy (CIS) Lab at HKUST(GZ) to study the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on algorithms and systems for digital content creation. My current research topics include sketching, VR/AR/XR, generative techniques, and multimodality, with applications in art, design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://zhuanlan.zhihu.com/p/570458778">招生</a>, <a href="https://mp.weixin.qq.com/s/ONMwSZoG-QnOAWhyq9vabQ">Admissions</a>]</span>
+		I lead the <a href="http://www.zachzeyuwang.com:8080/"><b>Creative Intelligence and Synergy (CIS) Lab</b></a> at HKUST(GZ) to study the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on algorithms and systems for digital content creation. My current research topics include sketching, VR/AR/XR, generative techniques, and multimodality, with applications in art, design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://zhuanlan.zhihu.com/p/570458778">招生</a>, <a href="https://mp.weixin.qq.com/s/ONMwSZoG-QnOAWhyq9vabQ">Admissions</a>]</span>
 	</td>
 </tr>
 </table>
