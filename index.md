@@ -27,6 +27,7 @@ layout: page_no_title
 		<a href="https://github.com/zachzeyuwang">[GitHub]</a><br>
 		<a href="https://twitter.com/zachzeyuwang">[Twitter]</a>
 	</td>
+	<td style="border:0px; text-align:justify; text-justify:inter-word;">
 		I lead the <a href="http://cislab.hkust-gz.edu.cn/"><b>Creative Intelligence and Synergy (CIS) Lab</b></a> at HKUST(GZ) to study the intersection of Computer Graphics, Human-Computer Interaction, and Artificial Intelligence, with a focus on algorithms and systems for digital content creation. My current research topics include sketching, VR/AR/XR, generative techniques, and multimodality, with applications in art, design, perception, and cultural heritage. My research has been recognized by an <a href="https://research.adobe.com/fellowship/previous-fellowship-award-winners/">Adobe Research Fellowship</a>. <span style="color:red">I have multiple fully funded PhD, MPhil, PostDoc, and RA positions. Please drop me an email if you are interested in working with me. [<a href="https://zhuanlan.zhihu.com/p/570458778">招生</a>, <a href="https://mp.weixin.qq.com/s/ONMwSZoG-QnOAWhyq9vabQ">Admissions</a>]</span>
 	</td>
 </tr>
