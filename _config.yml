@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Zeyu Wang
 email: firstnamelastname [at] ust.hk
-description: Zeyu Wang, Assistant Professor, HKUST (GZ)
+description: Zeyu Wang, Assistant Professor, HKUST(GZ)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zachzeyuwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # linkedin_username: zachzeyuwang
